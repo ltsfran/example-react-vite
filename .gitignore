@@ -12,6 +12,7 @@
 # production
 /app/build
 /build
+dist
 
 #cache
 app/.cache/
